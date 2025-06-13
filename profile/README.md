@@ -1,4 +1,4 @@
-# 🚀 [Your Organization Name]
+# 🚀 The Imposters
 
 Welcome to **The Imposters**, a full-service tech team dedicated to crafting modern web experiences — from beautiful frontends to robust backend systems. We turn ideas into products, and problems into clean, scalable solutions.
 
